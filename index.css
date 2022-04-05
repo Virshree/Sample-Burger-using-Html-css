@@ -1,0 +1,35 @@
+.firstline{
+    background-color: orangered;
+    height: 150px;
+    width: 450px;
+ 
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 45% 45% 0% 0%;
+    justify-content: center;
+    border: 2px solid green ;
+    align-items: center;
+}
+.secondline{
+     margin: auto;
+    background-color: green;
+    width:450px;
+    height:20px;
+    border-radius: 5px;
+}
+
+.thirdline{
+     background-color: red;
+    width:200px;
+    height:20px;
+    border-radius: 10px;
+  margin:0px 440px ;
+}
+.fourthline{
+    background-color: yellow;
+    width: 450px;
+    height: 15px;
+    border-radius: 5px;
+    margin: auto;
+}
+
